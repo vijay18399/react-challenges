@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactchallenges/static/css/main.469439ab.css",
+    "main.js": "/reactchallenges/static/js/main.f2f9a915.js",
+    "index.html": "/reactchallenges/index.html",
+    "main.469439ab.css.map": "/reactchallenges/static/css/main.469439ab.css.map",
+    "main.f2f9a915.js.map": "/reactchallenges/static/js/main.f2f9a915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469439ab.css",
+    "static/js/main.f2f9a915.js"
+  ]
+}
